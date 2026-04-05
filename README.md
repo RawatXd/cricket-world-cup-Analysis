@@ -61,7 +61,6 @@ README.md                  # Project documentation
 
 3. **Explore the dashboard**
    - Use the top navigation tabs to switch between player roles
-   - Toggle between **Qualifier** and **Super 12** stages
    - Click player names to highlight individual stats
    - Navigate to **Final 11** to build your custom team
 
