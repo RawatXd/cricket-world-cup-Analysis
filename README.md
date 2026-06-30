@@ -66,6 +66,31 @@ The dashboard combines **Power BI**, **Power Query**, and **DAX** to transform r
 
 ![Power Hitters](P1.png)
 
+---
+
+## 🎯 Anchors / Middle Order
+
+![Anchors](p2.png)
+
+---
+
+## ⚡ Finishers
+
+![Finishers](p3.png)
+
+---
+
+## 🏏 All Rounders
+
+![All Rounders](p4.png)
+
+---
+
+## 💨 Specialist Fast Bowlers
+
+![Fast Bowlers](p5.png)
+
+---
 
 ## ⭐ Final Playing XI Builder
 
