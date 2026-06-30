@@ -64,12 +64,12 @@ The dashboard combines **Power BI**, **Power Query**, and **DAX** to transform r
 
 ## 🥊 Power Hitters / Openers
 
-![Power Hitters](P1.png)
+![Power Hitters](p1.png)
 
 
 ## ⭐ Final Playing XI Builder
 
-![Final Playing XI](P6.png)
+![Final Playing XI](p6.png)
 
 ---
 
